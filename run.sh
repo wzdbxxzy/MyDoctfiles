@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-SOURCE_DIR=~/doctfiles
+SOURCE_DIR=~/MyDoctfiles
 TARGET_DIR=~
 
 for file in $SOURCE_DIR/.*;do
