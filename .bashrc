@@ -158,3 +158,4 @@ fi
 if [[ -f ~/.fzf.bash ]]; then
 	source ~/.fzf.bash
 fi
+set -o vi
